@@ -1,0 +1,156 @@
+@charset "utf-8";
+@import url("../CSS copied Source/application.min.css");
+/* CSS Document */
+
+
+h2{
+	color: antiquewhite;
+	font-weight:400;
+	font-size:40px; 
+    text-align:center;  
+    margin:30px 0; 
+}
+h3{
+	color: antiquewhite;
+	font-weight:400;
+	font-size:20px; 
+    text-align:center;  
+    margin:30px 0; 
+}
+
+/* copied from http://tomerlerner.com/work */
+body{
+    font-family: "Playfair Display","Calibri Light",Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif",monospace,serif;
+    line-height: 1.2;
+    background-color: #fff;
+}
+
+li {
+    list-style: none;
+}
+
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+a, abbr, address, blockquote, body, caption, cite, code, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, label, legend, li, object, ol, p, pre, q, small, span, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, ul {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+display:block;
+}
+body{
+font-family:"Playfair Display", serif;
+font-weight:400;
+height:1078px;
+line-height:19.2px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+margin-top:0px;
+}
+
+.bottom_nav, .bottom_nav.case li, .device_screen, body, html{
+overflow-x:hidden;
+overflow-y:hidden;
+
+}
+
+hmtl{
+text-size-adjust:100%;
+}
+
+
+
+
+a{
+	color: black
+}
+/* 
+Define this in your CSS 
+.bgColor = Replace it by the name you want to give your animation
+.bgAnimObj = Assign this class to the object you want to apply the effect
+*/
+
+.bgAnimObj{
+	background-image: url("../Bilder/Impressum/photo-of-person-holding-black-pen-959816.jpg");
+	background-color: burlywood;
+}
+
+/* 
+Define the keyframe and changes
+*/
+
+/* Chrome, Safari */
+@-webkit-keyframes bgColor {
+	from {
+ 		background: #1abc9c;
+	} 
+	to {
+ 		background: #ebebeb;
+	}
+}
+
+/* Firefox */
+@-moz-keyframes bgColor {
+    from {
+        background: #1abc9c;
+    }
+    to {
+        background: #ebebeb;
+    }
+}
+
+/* Standard syntax */
+@keyframes bgColor {
+	from {
+		background: #1abc9c;
+	}
+	to {
+		background: #ebebeb;
+	}
+}
+/* 
+Define this in your CSS 
+.bgColor = Replace it by the name you want to give your animation
+.bgAnimObj = Assign this class to the object you want to apply the effect
+*/
+
+
+
+/* everything below is my work*/
+.table{
+	
+		width:250px;
+		border:100px;
+}
+
+
+.work_item_Mein_Leben{
+	
+	margin-left: 200px;
+	
+}
+
+
+
+
+
+footer{
+	position: absolute;
+	bottom: 0px;
+}
+
+
+p{
+	color:navajowhite;
+}
+
+

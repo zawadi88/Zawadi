@@ -1,0 +1,273 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+		font-family: "Playfair Display","Calibri Light",Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif",monospace,serif;
+}
+h2{
+	color: black;
+	font-weight:400;
+	font-size:40px; 
+    text-align:center;  
+    margin:30px 0; 
+}
+h3{
+	color: black;
+	font-weight:400;
+	font-size:20px; 
+    text-align:center;  
+    margin:30px 0; 
+}
+.link1{
+	cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;	
+}
+
+.link2{
+cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 5px;
+	margin-left: 199px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;
+}
+	
+.link3{
+	cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 5px;
+	margin-left: 199px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;		
+}
+.link4{
+	cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 5px;
+	margin-left: 199px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;
+}
+.link5{
+	cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 5px;
+	margin-left: 199px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;	
+	
+}
+
+	.link6{
+	cursor: pointer;
+	transition: all .3s 
+		cubic-bezier(.75,0,.125,1);
+	vertical-align: middle;
+	box-sizing: border-box;
+	list-style-type: none;
+	background-color: none;
+	width: 100%;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	margin-left: 1525px;
+	margin-top: 100px;
+	border: 10px;
+	border: none;
+	padding: 24px;
+}
+
+p{	
+	font-size: 70px;
+	align-content: center;
+	font-variant-position: normal;
+	position: sticky;
+	margin-top: 150px;
+	margin-bottom: 0px;
+	color: black;
+}
+
+#videos{
+	align-content: center;
+	font-size: medium;
+	font-variant-position: normal;
+	position: sticky;
+	margin-left: 500px;
+	margin-top: 70px;
+	color: white;
+	
+}
+
+
+.vid1{
+	width: 40px;
+	height: 100px;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 300px;
+	box-sizing: content-box;
+	resize: horizontal;
+	padding: inherit;
+	border:100px;
+	border: thin;
+}
+
+.vid2{
+	width: 40px;
+	height: 100px;
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-right: 300px;
+	box-sizing: content-box;
+	resize: horizontal;
+	padding: inherit;
+	border:100px;
+	border: thin;
+}
+
+
+.vid3{
+	width: 40px;
+	height: 100px;
+	margin-left: 50px;
+	margin-right: 300px;
+	margin-bottom: 300px;
+	box-sizing: content-box;
+	resize: horizontal;
+	padding: inherit;
+	border:100px;
+	border: thin;
+	
+}
+
+
+
+
+.table_TITLE{
+	
+	position: sticky;
+	margin-left: 200px;
+	margin-right: 100px;
+	margin-top: 200px;
+	font-display: block;
+	font-family: actor,"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: brown;
+	font-synthesis: style;
+	font-kerning: auto;
+	font-size: 50px;
+	
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+padding: 15px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 {
+  width: 100%;    
+  background-color: #f1f1c1;
+}
+
+
+.table_INHALT{
+	border:thin 2px;
+	border-width: thin;
+	border-collapse: separate;
+	border-color: aquamarine;
+	position: sticky;
+	margin-left: 400px;
+	margin-right: 300px;
+	margin-top: 200px;
+	font-display: block;
+	font-family: actor,"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: brown;
+	font-synthesis: style;
+	font-kerning: auto;
+	font-size: 50px;
+	
+}
+
+
+
+a{
+	color: black
+}
+
+
+video{
+	
+	margin-bottom: 50px;
+	margin-top: 100px;
+	
+
+}
+
+
+
+boxed{
+	border: 1px#FBEDED;
+}
+navi2{
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+}
+ 	
+p{
+	color:black;
+}
+body{
+	background-image: url(  "../Bilder/Mein_Leben/silhouette-of-grass-under-white-sky-925743.jpg");
+	background-color: burlywood;
+}

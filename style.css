@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('fonts/icomoon.eot?y10tod');
+    src:  url('fonts/icomoon.eot?y10tod#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?y10tod') format('truetype'),
+    url('fonts/icomoon.woff?y10tod') format('woff'),
+    url('fonts/icomoon.svg?y10tod#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cssda:before {
+    content: "\e900";
+}
+.icon-webby:before {
+    content: "\e901";
+}
+.icon-fwa:before {
+    content: "\e902";
+}
+.icon-awwwards:before {
+    content: "\e903";
+}
+.icon-face:before {
+    content: "\e904";
+}
+.icon-gplus:before {
+    content: "\e905";
+}
+.icon-pin:before {
+    content: "\e906";
+}
+.icon-twitt:before {
+    content: "\e907";
+}
+.icon-linked:before {
+    content: "\e908";
+}
+.icon-mail:before {
+    content: "\e909";
+}
+.icon-arrow:before {
+    content: "\e90a";
+}
+.icon-bird:before {
+    content: "\e90b";
+}
+.icon-humavox:before {
+    content: "\e90c";
+}
+.icon-numo:before {
+    content: "\e90d";
+}
+.icon-webydo:before {
+    content: "\e90e";
+}
+.icon-wikiwand:before {
+    content: "\e90f";
+}
+.icon-wipro:before {
+    content: "\e910";
+}
+.icon-shibui:before {
+    content: "\e911";
+}
+.icon-windward:before {
+    content: "\e912";
+}
+.icon-zest:before {
+    content: "\e913";
+}
+.icon-cleancube:before {
+    content: "\e916";
+}
+.icon-passible:before {
+    content: "\e917";
+}
+.icon-thecolonie:before {
+    content: "\e918";
+}
+.icon-top:before {
+    content: "\e919";
+}
+.icon-behance:before {
+    content: "\e91a";
+}
+.icon-dribble:before {
+    content: "\e91b";
+}
